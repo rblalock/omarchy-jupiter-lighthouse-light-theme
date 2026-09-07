@@ -1,0 +1,32 @@
+mode = "light"
+
+# Jupiter Lighthouse coral against sun-washed watercolor paper.
+accent = "#895848"
+selection = "#D5DDD8"
+muted = "#A7A69F"
+
+background = "#F4F2E9"
+dark_background = "#E7E4DA"
+darker_background = "#D8D5CB"
+lighter_background = "#FCFAF4"
+
+foreground = "#233921"
+dark_foreground = "#7D837C"
+light_foreground = "#405B39"
+bright_foreground = "#17291D"
+
+red = "#A33F35"
+yellow = "#766719"
+orange = "#9A4E2F"
+green = "#45673B"
+cyan = "#2F747D"
+blue = "#396A85"
+magenta = "#78526D"
+brown = "#6A4B39"
+
+bright_red = "#91624C"
+bright_yellow = "#676A2F"
+bright_green = "#507049"
+bright_cyan = "#3D7471"
+bright_blue = "#497077"
+bright_magenta = "#78526D"
