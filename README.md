@@ -4,6 +4,8 @@ A warm, coastal light theme for [Omarchy](https://omarchy.org), built around fou
 
 The palette pairs sun-washed ivory surfaces with mangrove green text, inlet blue and teal utility colors, and the lighthouse's muted coral as the primary accent. It uses Yaru's `prussiangreen` icon variant.
 
+Companion theme: [Jupiter Lighthouse Dark](https://github.com/rblalock/omarchy-jupiter-lighthouse-dark-theme)
+
 ## Install
 
 ```bash
